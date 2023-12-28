@@ -1,0 +1,1 @@
+skew:{avg[x*x2]%sqrt m2*m2*m2:avg x2: x * x-:avg x}
